@@ -44,5 +44,6 @@ theme:
     logo: logo
     
 nav:
-  - CS：
-    - 计算机组成：CS/计算机组成/CO.md
+  - 首页: index.md
+  - CS:
+    - 计算机组成: CS/计算机组成/CO.md
