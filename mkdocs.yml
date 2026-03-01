@@ -43,3 +43,6 @@ theme:
     repo: fontawesome/brands/github #右上角图标
     logo: logo
     
+nav:
+  - CS：
+    - 计算机组成：CS/计算机组成/CO.md
